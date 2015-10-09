@@ -1,15 +1,11 @@
 {
-  "name": "AngularJS + RequireJS Example",
-  "version": "0.1",
-  "main": "index.html",
-  "ignore": [
-    "**/.*",
-    "libs"
-  ],
-  "dependencies": {
-    "angular": "latest",
-    "angular-route": "latest",
-    "requirejs": "latest",
-    "requirejs-domready": "latest"
-  }
+	"name": "AngularJS + RequireJS Scaffold",
+	"author": "nick@nicholas-morgan.com",
+	"version": "1.0.0",
+	"dependencies": {
+		"angular": "latest",
+		"angular-route": "latest",
+		"requirejs": "latest",
+		"requirejs-domready": "latest"
+	}
 }
